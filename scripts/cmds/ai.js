@@ -26,7 +26,7 @@ function normalizeText(text) {
 }
 
 function formatResponse(content) {
-  const header = `🧋✨ | 👻fantôme lord👻\n━━━━━━━━━━━━━━━━\n`;
+  const header = `🫶🏼❤️ | Rhude\n━━━━━━━━━━━━━━━━\n`;
   const footer = `━━━━━━━━━━━━━━━━`;
   return `${header}${content.trim()}\n${footer}`;
 }
