@@ -15,6 +15,6 @@ onChat: async function({
 	message,
 	getLang
 }) {
-	if (event.body && event.body.toLowerCase() == "salut") return message.reply("salut.. Celui qui veut une bastonade peut aller voir 🍀kelem🍀 ");
+	if (event.body && event.body.toLowerCase() == "salut") return message.reply("Salut, je suis une intelligence artificielle, que puis-je pour vous 🫶🏼❤️");
 }
 };
